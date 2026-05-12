@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Sean Hoenderdos - AI and Full-Stack Developer" width="100%" />
+  <img src="./assets/profile-card.svg" alt="Sean Hoenderdos - AI and Full-Stack Developer" width="760" />
 </p>
 
 <h1 align="center">Hi, I'm Sean Hoenderdos</h1>
