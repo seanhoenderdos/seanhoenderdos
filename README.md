@@ -55,7 +55,7 @@ I like turning ambitious ideas into usable products: AI tools, full-stack web ap
 | [ai-teaching-saas](https://github.com/seanhoenderdos/ai-teaching-saas) | SaaS-style AI learning product with auth, voice AI, observability, and a full-stack app structure. | Next.js, TypeScript, Clerk, Supabase, Vapi |
 | [banking](https://github.com/seanhoenderdos/banking) | Modern banking platform concept with financial integrations and a polished product direction. | Next.js, TypeScript, Plaid, Dwolla, Appwrite |
 | [ai-resume-analyzer](https://github.com/seanhoenderdos/ai-resume-analyzer) | Practical AI tool for analyzing resumes and working with document-heavy user flows. | React Router, JavaScript, PDF tooling |
-| [macOs-portfolio](https://github.com/seanhoenderdos/macOs-portfolio) | Interactive, visual portfolio work with motion and a desktop-inspired interface. | React, Vite, GSAP, Zustand |
+| [macOs-portfolio](https://github.com/seanhoenderdos/macOs-portfolio) | My interactive portfolio experience, built to showcase frontend craft, motion, and desktop-inspired UX. | React, Vite, GSAP, Zustand |
 | [fooddelivery](https://github.com/seanhoenderdos/fooddelivery) | Mobile app product flow with navigation, native UI patterns, and Expo-based development. | React Native, Expo, TypeScript |
 
 ## Contact
