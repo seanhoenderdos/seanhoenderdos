@@ -58,13 +58,6 @@ I like turning ambitious ideas into usable products: AI tools, full-stack web ap
 | [macOs-portfolio](https://github.com/seanhoenderdos/macOs-portfolio) | Interactive, visual portfolio work with motion and a desktop-inspired interface. | React, Vite, GSAP, Zustand |
 | [fooddelivery](https://github.com/seanhoenderdos/fooddelivery) | Mobile app product flow with navigation, native UI patterns, and Expo-based development. | React Native, Expo, TypeScript |
 
-## GitHub Snapshot
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=seanhoenderdos&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Sean's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanhoenderdos&layout=compact&hide_border=true&theme=transparent" alt="Sean's top languages" />
-</p>
-
 ## Contact
 
 I am always open to talking about AI products, full-stack apps, creative frontend work, and practical ways to make software more useful.
