@@ -1,67 +1,156 @@
 <p align="center">
-  <img src="./assets/profile-card.svg" alt="Sean Hoenderdos - AI and Full-Stack Developer" width="760" />
+  <img
+    src="./assets/profile-card.svg"
+    alt="Sean Hoenderdos — Frontend Developer and UX Designer"
+    width="760"
+  />
 </p>
 
 <h1 align="center">Hi, I'm Sean Hoenderdos</h1>
 
 <p align="center">
-  AI + full-stack developer based in Cape Town, building practical web and mobile products with modern JavaScript tools.
+  Frontend developer + UX designer based in Cape Town.<br/>
+  I turn ideas and problems into thoughtful digital experiences — from the first concept to the shipped product.
 </p>
 
 <p align="center">
-  <a href="mailto:sean.hoenderdos@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sean.hoenderdos%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sean" />
-  </a>
-  <a href="https://www.linkedin.com/in/sean-hoenderdos-ux-engineer/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sean%20Hoenderdos-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/seanhoenderdos">
-    <img src="https://img.shields.io/badge/GitHub-seanhoenderdos-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="mailto:sean.hoenderdos@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sean-hoenderdos-ux-engineer/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/seanhoenderdos">GitHub</a>
 </p>
 
-## About
+<br/>
 
-I like turning ambitious ideas into usable products: AI tools, full-stack web apps, mobile experiences, and polished frontend interfaces. Right now I am focused on sharpening my engineering fundamentals while building projects that are practical, clean, and shipped.
+## A little about how I build
 
-## Currently
+I work somewhere between design and development.
 
-- Building AI and full-stack apps with Next.js, TypeScript, and React Native.
-- Exploring harnesses for AI models, including evaluation, reliability, and repeatable testing workflows.
-- Turning learning projects into more polished, production-minded products.
+My UX background means I rarely see frontend work as just implementing a screen. I think about the problem behind it, the structure, how someone moves through it, how it responds, and the details that make an experience feel considered.
 
-## Tech Stack
+**Then I build it.**
+
+That often means moving between product thinking, interface design, React, motion, APIs and whatever else the idea needs to become something real.
+
+<br/>
+
+## What I'm exploring right now
+
+- Building more expressive frontend experiences with **GSAP, interaction and scroll-driven motion**
+- Taking ideas from **UX thinking → interface → working product**
+- Going deeper with **React, Next.js and TypeScript**
+- Using **AI, APIs and automation** where they genuinely improve the product
+- Continuing to sharpen the engineering behind the interfaces I design
+
+<br/>
+
+## I build with
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React%20Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-111827?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Sentry-111827?style=for-the-badge&logo=sentry&logoColor=8B5CF6" alt="Sentry" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="34" height="34" alt="React" title="React" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="34" height="34" alt="Next.js" title="Next.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="34" height="34" alt="TypeScript" title="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="34" height="34" alt="JavaScript" title="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="34" height="34" alt="Tailwind CSS" title="Tailwind CSS" />
 </p>
 
-## Featured Projects
+**Frontend**  
+React · Next.js · TypeScript · JavaScript · Tailwind CSS · GSAP
 
-| Project | What it shows | Stack |
-| --- | --- | --- |
-| [lighted](https://github.com/seanhoenderdos/lighted) | AI-powered full-stack product work with auth, Prisma, and modern Next.js architecture. | Next.js, TypeScript, Prisma, AI |
-| [ai-teaching-saas](https://github.com/seanhoenderdos/ai-teaching-saas) | SaaS-style AI learning product with auth, voice AI, observability, and a full-stack app structure. | Next.js, TypeScript, Clerk, Supabase, Vapi |
-| [banking](https://github.com/seanhoenderdos/banking) | Modern banking platform concept with financial integrations and a polished product direction. | Next.js, TypeScript, Plaid, Dwolla, Appwrite |
-| [ai-resume-analyzer](https://github.com/seanhoenderdos/ai-resume-analyzer) | Practical AI tool for analyzing resumes and working with document-heavy user flows. | React Router, JavaScript, PDF tooling |
-| [macOs-portfolio](https://github.com/seanhoenderdos/macOs-portfolio) | My interactive portfolio experience, built to showcase frontend craft, motion, and desktop-inspired UX. | React, Vite, GSAP, Zustand |
-| [fooddelivery](https://github.com/seanhoenderdos/fooddelivery) | Mobile app product flow with navigation, native UI patterns, and Expo-based development. | React Native, Expo, TypeScript |
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="34" height="34" alt="Node.js" title="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="34" height="34" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="34" height="34" alt="Prisma" title="Prisma" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="34" height="34" alt="Supabase" title="Supabase" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="34" height="34" alt="Git" title="Git" />
+</p>
 
-## Contact
+**Beyond the interface**  
+Node.js · PostgreSQL · Prisma · Supabase · REST APIs · Git
 
-I am always open to talking about AI products, full-stack apps, creative frontend work, and practical ways to make software more useful.
+<br/>
 
-- Email: [sean.hoenderdos@gmail.com](mailto:sean.hoenderdos@gmail.com)
-- LinkedIn: [sean-hoenderdos-ux-engineer](https://www.linkedin.com/in/sean-hoenderdos-ux-engineer/)
-- GitHub: [@seanhoenderdos](https://github.com/seanhoenderdos)
+## Selected work
+
+### [Shearon Pharmaceuticals ↗](https://shearonpharma.co.za)
+
+**Commercial work · UX + Frontend Development**
+
+A production website for Shearon Pharmaceuticals combining responsive frontend development, interaction design and motion with the practical requirements of a real business.
+
+The experience includes a product catalogue, responsive product views, enquiry and newsletter flows, legal and compliance content, video-led presentation and motion.
+
+`Next.js` `TypeScript` `Tailwind CSS` `GSAP` `Neon` `Resend`
+
+> Commercial project · Source code kept private.
+
+---
+
+### [Lighted ↗](https://lighted.life)
+
+**Commercial work · Product Development**
+
+I contributed to the development of Lighted, an AI-assisted workspace built around a real user workflow.
+
+The project gave me experience working on a production product where the interface, application logic and supporting systems all had to work together as one experience.
+
+`Next.js` `TypeScript` `PostgreSQL` `AI`
+
+> Commercial project · Source code kept private.
+
+---
+
+### [macOS Portfolio ↗](https://github.com/seanhoenderdos/macOs-portfolio)
+
+**Guided project · Independent mobile implementation**
+
+I built the desktop experience while following a JavaScript Mastery course, then took on the challenge of designing and implementing the mobile version independently.
+
+The mobile work required rethinking the desktop interaction model for smaller screens, touch interaction, navigation and responsive application behaviour rather than simply shrinking the desktop UI.
+
+`React` `Vite` `GSAP` `Zustand`
+
+> Desktop implementation guided by JavaScript Mastery · Mobile experience designed and built independently.
+
+---
+
+### [Food Delivery ↗](https://github.com/seanhoenderdos/fooddelivery)
+
+**Guided foundation · Independently extended**
+
+The initial application structure and tab navigation were built while following a JavaScript Mastery tutorial.
+
+I then extended the application independently by building its dynamic product detail experience and search functionality, including Appwrite-backed product data, keyword search and category filtering.
+
+`React Native` `Expo` `TypeScript` `Zustand` `Appwrite`
+
+> Guided foundation · Product detail experience and search functionality built independently.
+
+<br/>
+
+## Beyond the interface
+
+I enjoy frontend most, but I don't treat it as an isolated layer.
+
+I've worked with authentication, databases, APIs, AI workflows, automation and application architecture when a project required it.
+
+For me, **the technology is there to support the experience — not the other way around.**
+
+Some of my commercial work lives in private repositories to respect client ownership and confidentiality.
+
+<br/>
+
+## Say hello
+
+I'm interested in frontend engineering, UX, creative development and teams that care about how digital products both **work and feel**.
+
+[Email me](mailto:sean.hoenderdos@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sean-hoenderdos-ux-engineer/)
