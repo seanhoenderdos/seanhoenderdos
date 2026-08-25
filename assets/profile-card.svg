@@ -1,62 +1,61 @@
-<svg width="900" height="420" viewBox="0 0 900 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Sean Hoenderdos profile card</title>
-  <desc id="desc">A modern, minimal profile card for Sean Hoenderdos, AI and full-stack developer.</desc>
-  <defs>
-    <linearGradient id="shell" x1="70" y1="54" x2="830" y2="366" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#1E293B"/>
-      <stop offset="0.42" stop-color="#334155"/>
-      <stop offset="1" stop-color="#0F766E"/>
-    </linearGradient>
-    <linearGradient id="titleGradient" x1="197" y1="165" x2="703" y2="224" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F8FAFC"/>
-      <stop offset="0.55" stop-color="#BAE6FD"/>
-      <stop offset="1" stop-color="#CCFBF1"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(450 72) rotate(90) scale(280 560)">
-      <stop stop-color="#38BDF8" stop-opacity="0.2"/>
-      <stop offset="0.45" stop-color="#14B8A6" stop-opacity="0.08"/>
-      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="shadow" x="22" y="22" width="856" height="376" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="24" stdDeviation="34" flood-color="#000000" flood-opacity="0.38"/>
-    </filter>
-  </defs>
+<svg
+  width="900"
+  height="420"
+  viewBox="0 0 900 420"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">Sean Hoenderdos — Frontend Developer and UX Designer</title>
+  <desc id="desc">
+    Minimal portfolio-inspired GitHub banner for Sean Hoenderdos with a warm off-white background,
+    centered lavender logo mark, bold name, and supporting role text.
+  </desc>
 
-  <rect width="900" height="420" rx="34" fill="#020617"/>
-  <rect width="900" height="420" rx="34" fill="url(#glow)"/>
+  <!-- Background -->
+  <rect width="900" height="420" fill="#F5F3EF"/>
 
-  <g opacity="0.36">
-    <path d="M150 0V420" stroke="#1E293B"/>
-    <path d="M300 0V420" stroke="#1E293B"/>
-    <path d="M450 0V420" stroke="#1E293B"/>
-    <path d="M600 0V420" stroke="#1E293B"/>
-    <path d="M750 0V420" stroke="#1E293B"/>
-    <path d="M0 105H900" stroke="#1E293B"/>
-    <path d="M0 210H900" stroke="#1E293B"/>
-    <path d="M0 315H900" stroke="#1E293B"/>
+  <!-- Large centered logo mark -->
+  <g transform="translate(450 138) scale(2.4)">
+    
   </g>
 
-  <g filter="url(#shadow)">
-    <rect x="70" y="54" width="760" height="312" rx="30" fill="#030712"/>
-    <rect x="70.75" y="54.75" width="758.5" height="310.5" rx="29.25" stroke="url(#shell)" stroke-width="1.5"/>
-    <rect x="90" y="74" width="720" height="272" rx="22" fill="#0F172A" fill-opacity="0.54" stroke="#1E293B"/>
-  </g>
+  <!-- Name -->
+  <text
+    x="450"
+    y="245"
+    text-anchor="middle"
+    fill="#111111"
+    font-family="Inter, Arial, sans-serif"
+    font-size="66"
+    font-weight="800"
+    letter-spacing="-3.2"
+  >
+    SEAN HOENDERDOS
+  </text>
 
-  <path d="M151 105H749" stroke="#E2E8F0" stroke-opacity="0.08"/>
-  <path d="M151 313H749" stroke="#E2E8F0" stroke-opacity="0.08"/>
-  <path d="M144 118L144 96L166 96" stroke="#38BDF8" stroke-opacity="0.65" stroke-width="2" stroke-linecap="round"/>
-  <path d="M756 302L756 324L734 324" stroke="#14B8A6" stroke-opacity="0.65" stroke-width="2" stroke-linecap="round"/>
+  <!-- Role -->
+  <text
+    x="450"
+    y="285"
+    text-anchor="middle"
+    fill="#7E7975"
+    font-family="Inter, Arial, sans-serif"
+    font-size="14"
+    font-weight="500"
+    letter-spacing="2.4"
+  >
+    FRONTEND DEVELOPER + UX DESIGNER
+  </text>
 
-  <text x="450" y="142" text-anchor="middle" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="0">SEAN HOENDERDOS</text>
-  <text x="450" y="214" text-anchor="middle" fill="url(#titleGradient)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="0">AI + Full-Stack Developer</text>
-  <text x="450" y="258" text-anchor="middle" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500" letter-spacing="0">Next.js / TypeScript / React Native / AI Systems</text>
-
-  <g transform="translate(229 292)">
-    <rect width="126" height="34" rx="17" fill="#020617" stroke="#263244"/>
-    <text x="63" y="22" text-anchor="middle" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Cape Town</text>
-    <rect x="142" width="150" height="34" rx="17" fill="#020617" stroke="#263244"/>
-    <text x="217" y="22" text-anchor="middle" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">AI Products</text>
-    <rect x="308" width="134" height="34" rx="17" fill="#020617" stroke="#263244"/>
-    <text x="375" y="22" text-anchor="middle" fill="#CCFBF1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Model Harnesses</text>
-  </g>
+  <!-- Optional subtle bottom line -->
+  <line
+    x1="210"
+    y1="325"
+    x2="690"
+    y2="325"
+    stroke="#111111"
+    stroke-opacity="0.10"
+  />
 </svg>
